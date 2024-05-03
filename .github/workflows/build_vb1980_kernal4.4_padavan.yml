@@ -58,7 +58,7 @@ on:
         - ZTE_E8820S
         - FCJ_G-AX1800
         - Skspruce_WIA3300-10
-        default: SIM_AX1800T
+        default: Xiaomi_CR6606
       plugins:
         description: 'json format string of include configs'
         required: true
